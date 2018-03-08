@@ -1,0 +1,4 @@
+"I:\MongoDB\Server\3.6\bin\mongod.exe" --dbpath "c:\wamp\www\angular adv\db"
+
+n132s-webapp-angular
+n132s-backend-node
