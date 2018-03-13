@@ -1,5 +1,5 @@
 var express = require('express');
-var fs = require('fs'); // necesario para borrar fichero
+var fs = require('fs'); // necesario para borrar fichero, permite poder manejar el sistema de ficheros del proyecto
 
 var app = express();
 

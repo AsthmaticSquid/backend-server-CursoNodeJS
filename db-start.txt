@@ -1,4 +1,10 @@
 "I:\MongoDB\Server\3.6\bin\mongod.exe" --dbpath "c:\wamp\www\angular adv\db"
 
+// Este es tu ID de cliente
+52770649463-mtf6ru433i6c0pnenl6pe3hjeda3fao1.apps.googleusercontent.com
+// Este es tu secreto de cliente
+JTw909Ni0jveYoOVKdNGuhED
+
+
 n132s-webapp-angular
 n132s-backend-node
